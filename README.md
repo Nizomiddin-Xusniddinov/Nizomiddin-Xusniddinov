@@ -18,4 +18,5 @@ I work remotly too I like travel a lot
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qhsWJF_3FCHC6vkvZW0HVpzy27fdAMaqtA&usqp=CAU" width="25"></code> 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0CgLZkNkC00v19AUnO1tRUvUVyfbx_DtfQ&usqp=CAU" width="25"></code> 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiy3yjv_qzIEzuZsQX_ziTZb0SdgoZU6VBuQ&usqp=CAU" width="25"></code> 
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlEaExX3vZqfXK8Brhktvt62k2ino2cbSkg&usqp=CAU" width="25"></code> 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdrxWNhglSkIPuwK5g9cdWrRyEep08Rtlgg&usqp=CAU" width="25"></code> 
