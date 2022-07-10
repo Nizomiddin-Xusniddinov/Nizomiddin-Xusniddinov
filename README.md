@@ -13,6 +13,6 @@ I work remotly too I like travel a lot
 ### Languages and tools I work with:
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSup45KwMTS07AIrEkF2dBoEUkRYRcpVdWQ&usqp=CAU" width="25"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFPs_nL5ywsKAGn6U-qpp6OElRDXNWr2CaA&usqp=CAU" width="25"></code> 
-<code><img src="https://sass-lang.com/assets/img/styleguid/white-e44bed0d.png" width="25"></code> 
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjYSNCW6V_QJ-V8LKvzWVaKZl2rcTDMAFUA&usqp=CAU" width="25"></code> 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSup45KwMTS07AIrEkF2dBoEUkRYRcpVdWQ&usqp=CAU" width="25"></code> 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSup45KwMTS07AIrEkF2dBoEUkRYRcpVdWQ&usqp=CAU" width="25"></code> 
