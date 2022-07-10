@@ -11,4 +11,4 @@ I work remotly I like travel a lot
 <br/>
 
 ### Languages and tools I work with:
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSup45KwMTS07AIrEkF2dBoEUkRYRcpVdWQ&usqp=CAU"><img/></code> 
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSup45KwMTS07AIrEkF2dBoEUkRYRcpVdWQ&usqp=CAU" heihgt="25px"><img/></code> 
